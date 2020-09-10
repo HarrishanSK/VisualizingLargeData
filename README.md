@@ -6,7 +6,8 @@ Visualizing a larget dataset for the Marvel Comic-book Universe.
 - A detailed analysis and comparison to a random graph can be found at: ./Report_comparison_to_a_random_graph.pdf
 - A summarised Network Analysis can be found at : "./Marvel_Dataset_Visualization_Poster.pdf ", this poster was made as an example, when i worked as a Teaching Assistant, to guide students of the module 'Digital Media and Social Networks' and was based on my coursework when I did the module in my BSc.
 
-![alt text](https://github.com/HarrishanSK/VisualizingLargeData/blob/master/images/image1.png | width = 100)
+![alt text](https://github.com/HarrishanSK/VisualizingLargeData/blob/master/images/image1.png)
+<img src="https://github.com/HarrishanSK/VisualizingLargeData/blob/master/images/image1.png" alt="alt text" width="200" height="100">
 
 # Overall Proposal and Dataset:
 The Marvel comic book universe dataset obtained contains 6421 nodes where each node represents a character in Marvel’s entire comic book universe which is made up of multiple comic book franchises. The graph consists of 167112 edges where each edge represents whether 2 characters have appeared in the same comic book together. The largest yellow node represents Spiderman and the yellow cluster represents Spiderman’s comic book franchise. Similarly the blue cluster represents the X-men franchise and the 4 orange nodes on the right represents the Fantastic Four franchise and so on. 
